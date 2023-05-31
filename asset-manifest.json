@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exam-firebase/static/css/main.799c9bba.css",
+    "main.js": "/exam-firebase/static/js/main.c7196517.js",
+    "static/js/787.7efd31bd.chunk.js": "/exam-firebase/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/exam-firebase/index.html",
+    "main.799c9bba.css.map": "/exam-firebase/static/css/main.799c9bba.css.map",
+    "main.c7196517.js.map": "/exam-firebase/static/js/main.c7196517.js.map",
+    "787.7efd31bd.chunk.js.map": "/exam-firebase/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799c9bba.css",
+    "static/js/main.c7196517.js"
+  ]
+}
